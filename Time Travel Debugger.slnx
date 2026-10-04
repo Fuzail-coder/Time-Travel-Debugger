@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Time Travel Debugger/Time Travel Debugger.vcxproj" Id="d0cda5cb-dc24-4fac-a74e-01a380ff25d3" />
+</Solution>
